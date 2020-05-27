@@ -3,7 +3,7 @@
  :warning: **I am not responsible for any issues caused on your order.**  
  :warning: **If your order is cancelled or anything, I am not at fault.**  
  :warning: **If you don't trust this program, don't run it.**  
- :warning: **if you want to check the source code before running it, it's in this repo.**  
+ :warning: **if you want to check the source code before running it, it's in this repo.** 
 
 This is a simple .net core console app which periodically:
 - Gets your order information from Lenovo
@@ -23,7 +23,7 @@ This is a simple .net core console app which periodically:
 
 ## :tada: Get Started
 
-Firstly, either clone this repo or download a precompiled version from the [Releases Page](TODO). You'll need to change a couple of settings in the `appsettings.json` file.
+Firstly, either clone this repo or download a precompiled version from the [Releases Page](https://github.com/techydan/lenovo-order-tracker/releases/). You'll need to change a couple of settings in the `appsettings.json` file.
 
 ### :page_facing_up: Configuration
 You'll need to change the following entries in `appsettings.json` to link your order to your phone.
@@ -78,4 +78,4 @@ In Google Chrome (Or another browser on a PC):
 
 This runs on .NET Core, which means it can run on Windows, macOS and Linux.
 
-If you're using Windows, there's a prebuilt exe you can find out the release page.
+If you're using Windows, there's a prebuilt exe you can find out the [release page](https://github.com/techydan/lenovo-order-tracker/releases/).
